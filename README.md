@@ -3,7 +3,7 @@ My solutions to the problems contained in "The New Turing Omnibus", by A.K. Dewd
 Files are arranged as follows:
 ```
 root/
-├─ Chapter 1: "[Chapter Title]"/
+├─ Chapter 1/
 │  ├─ Notes/
 │  ├─ Problem 1/
 │  │  ├─ solution_files
