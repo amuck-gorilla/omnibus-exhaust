@@ -6,6 +6,7 @@ Files are arranged as follows:
 ```
 root/
 ├─ Chapter 1: "[Chapter Title]"/
+│  ├─ Notes/
 │  ├─ Problem 1/
 │  │  ├─ solution_files
 │  ├─ ...
