@@ -1,6 +1,4 @@
 # Omnibus exhaust :bus::dash:
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/amuck-gorilla/omnibus-exhaust)
-
 My solutions to the problems contained in "The New Turing Omnibus", by A.K. Dewdney, mainly executed in Python, as that is the language I am most fluent in. :snake:
 Files are arranged as follows:
 ```
