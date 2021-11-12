@@ -36,10 +36,9 @@ refrences:
   - authors:
       - given-names: A. K.
         family-names: Dewdney
-    copyright: >-
-    Copyright © 1989 by Computer Science Press;
-    
-    copyright © 1993 by W. H. Freeman and Company
+    copyright: |-
+      Copyright © 1998 by Computer Science Press;
+      copyright © 1993 by W. H. Freeman and Company
     edition: "1993 edition"
     isbn: "9780805071665"
     keywords:
