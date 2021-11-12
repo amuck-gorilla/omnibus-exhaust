@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Omnibus Exhaust
+message: >-
+  If you use or share this software, please cite it
+  as below.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: P
+    email: 83174140+amuck-gorilla@users.noreply.github.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/amuck-gorilla/omnibus-exhaust
+    description: The repository for the project
+  - type: swh
+    value: >-
+      swh:1:dir:7e64fe9449388e14e9a1f4e2a7ba380bdfee3616
+    description: >-
+      The directory object of the repository as
+      stored on Software Heritage.
+repository-code: 'https://github.com/amuck-gorilla/omnibus-exhaust'
+url: 'https://github.com/amuck-gorilla/omnibus-exhaust'
+abstract: >-
+  A set of solutions to the problems contained in
+  "The New Turing Omnibus", by A.K. Dewdney.
+keywords:
+  - computers
+  - electronic data processing
+license: GPL-2.0
