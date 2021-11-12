@@ -8,8 +8,8 @@ message: >-
   as below.
 type: software
 authors:
-  - given-names: Thomas
-    family-names: P
+  - family-names: Thomas
+    given-names: P
     email: 83174140+amuck-gorilla@users.noreply.github.com
     country: US
 identifiers:
