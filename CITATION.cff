@@ -34,8 +34,8 @@ keywords:
 license: GPL-2.0
 references:
   - authors:
-      - given-names: A. K.
-        family-names: Dewdney
+      - family-names: A. K.
+      - given-names: Dewdney
     copyright: |-
       Copyright © 1998 by Computer Science Press;
       copyright © 1993 by W. H. Freeman and Company
