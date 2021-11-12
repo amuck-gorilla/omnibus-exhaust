@@ -1,4 +1,4 @@
-# This CITATION.cff file was generated with cffinit.
+# (Most of) This CITATION.cff file was generated with cffinit. (The rest was done by hand.)
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
@@ -11,6 +11,7 @@ authors:
   - given-names: Thomas
     family-names: P
     email: 83174140+amuck-gorilla@users.noreply.github.com
+    country: US
 identifiers:
   - type: url
     value: >-
@@ -31,3 +32,28 @@ keywords:
   - computers
   - electronic data processing
 license: GPL-2.0
+refrences:
+  - authors:
+      - given-names: A. K.
+        family-names: Dewdney
+    copyright: >-
+    Copyright © 1989 by Computer Science Press;
+    
+    copyright © 1993 by W. H. Freeman and Company
+    edition: "1993 edition"
+    isbn: "9780805071665"
+    keywords:
+      - "Electronic data processing"
+      - "Computers"
+    languages:
+      - en
+    publisher:
+      name: Holt Paperbacks
+      address: 175 Fifth Avenue
+      city: New York, New York
+      country: US
+      website: 'https://www.henryholt.com'
+    title: "The (New) Turing Omnibus"
+    type: book
+    year: 1993
+    year-original: 1989
