@@ -1,4 +1,7 @@
 # Omnibus exhaust :bus::dash:
+## Note
+*This repository has been archived, as I have stopped working on the book, due to my insufficient knowledge of higher math.*
+-----
 My solutions to the problems contained in "The New Turing Omnibus", by A.K. Dewdney, mainly executed in Python, as that is the language I am most fluent in. :snake:
 Files are arranged as follows:
 ```
